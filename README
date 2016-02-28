@@ -1,0 +1,7 @@
+Submission By Yash Sapra 
+Student # : 1332927
+
+To compile : make
+To run : mpirun -np <x> ./factor <key>
+
+
